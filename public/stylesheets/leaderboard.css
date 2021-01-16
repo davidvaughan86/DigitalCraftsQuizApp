@@ -12,7 +12,6 @@ body {
     background-color: #EFEBE7 ;
     font-family: 'Poppins', sans-serif;
     padding: 3em 0;
-
 }
 
 h1 {
@@ -20,8 +19,8 @@ h1 {
 }
 
 .header-title {
- text-align: center;
- color: #F04C1E;
+    text-align: center;
+    color: #F04C1E;
 }
 
 .card  {
@@ -54,8 +53,6 @@ span {
     margin: 30px;
 }
 
-
-
 /* Header CSS */
 
 a {
@@ -68,7 +65,6 @@ a {
 .header-container {
     display: flex;
     justify-content: space-between;
-
 }
 
 .logo img {
