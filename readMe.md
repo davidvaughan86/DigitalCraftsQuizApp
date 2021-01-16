@@ -1,5 +1,8 @@
-<img src="https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/readme-banner.png" align="middle" src="image.jpg" 
-width="800" height="200" alt="Header picture" />
+
+
+![Header banner](https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/readme-banner.png)
+
+
 
 # DigitalCrafts Quiz App
 
