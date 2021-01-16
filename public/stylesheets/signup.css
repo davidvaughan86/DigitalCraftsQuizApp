@@ -9,7 +9,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-	background: #EFEBE7 ;
+    background: #EFEBE7 ;
     font-family: 'Poppins', sans-serif;
     height: 100vh;
 }
@@ -17,64 +17,64 @@ body {
 /* Form */
 
 .form {
-	margin: 200px 0 250px 0;
-	display: flex;
-	justify-content: center;
-	width: 450px;
+    margin: 200px 0 250px 0;
+    display: flex;
+    justify-content: center;
+    width: 450px;
 }
 
 label {
-	color: #f04c1e;
-	font-weight: 400;
-	font-size: 1.2em;
-	display: flex;
+    color: #f04c1e;
+    font-weight: 400;
+    font-size: 1.2em;
+    display: flex;
 }
 
 .form input {
-	font-family: 'Poppins', sans-serif;
-	font-size: 1.1rem;
-	padding: 4px 0;
-	width: 350px;
-	border: none;
-	border-radius: 3px;
-	background: #f7f7f7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1rem;
+    padding: 4px 0;
+    width: 350px;
+    border: none;
+    border-radius: 3px;
+    background: #f7f7f7;
 }
 
 /* Sign-up Button */
 
 input[type=submit] {
-	background-color:#f04c1e;
-	border-radius:6px;
-	border: none;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-weight:500;
-	padding:8px 25px;
+    background-color:#f04c1e;
+    border-radius:6px;
+    border: none;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-weight:500;
+    padding:8px 25px;
     text-decoration:none;
     margin: 3rem 0 0 0 ;
 }
 
 .signup:hover {
-	background-color:#f76f49;
+    background-color:#f76f49;
 }
 
 .signup:active {
-	position:relative;
-	top:1px;
+    position:relative;
+    top:1px;
 }
 
 .signup-button {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 
 @media screen and (max-width: 650px) {
 
-    .form input {
+   .form input {
       width: 300px;
-	}
+   }
 	
   }
