@@ -60,15 +60,16 @@ h3 {
     background: #F6F4F2;
     color: #F04C1E;
     padding: 1em;
-    
 }
 
 p:first-child {
     font-style: italic;
 }
+
 p:nth-child(2){
     font-weight: bold;
 }
+
 /* Header */
 
 a {
@@ -83,7 +84,6 @@ a {
 .header-container {
     display: flex;
     justify-content: space-between;
-    /* margin: 60px; */
 }
 
 .logo img {
@@ -102,7 +102,7 @@ a {
 }
 
 .menu ul li {
-  margin: 30px;
+    margin: 30px;
 }
 
 .mQA {
@@ -113,8 +113,7 @@ a {
 
 @media screen and (max-width: 575px) {
     .container {
-        display: block;
-        
+      display: block;
     }
 
     .missed {
