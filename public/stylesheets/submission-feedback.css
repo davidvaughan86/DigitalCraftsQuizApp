@@ -49,14 +49,14 @@ a:active {
 }
 
 button[type=submit] {
-	border-radius:6px;
-	border: none;
+    border-radius:6px;
+    border: none;
     display:inline-block;
     font-family: 'Poppins', sans-serif;
-	cursor:pointer;
-	color:#fff;
-	font-weight:500;
-	padding:8px 25px;
+    cursor:pointer;
+    color:#fff;
+    font-weight:500;
+    padding:8px 25px;
     text-decoration:none;
     margin: 3rem 0 0 0 ;
 }
@@ -69,10 +69,10 @@ button[type=submit] {
 }
 
 button:hover {
-	background-color:#eee;
+    background-color:#eee;
 }
 
 button:active {
-	position:relative;
-	top:1px;
+    position:relative;
+    top:1px;
 }
