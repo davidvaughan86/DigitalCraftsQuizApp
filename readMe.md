@@ -60,15 +60,15 @@ My team and I created an App called "DigitalCraftquizzes" to assist students wit
 ### Screen shots of the process:
 
 ---
-#### Layout of our controllers, tables, attributes, and their relationships
+## Layout of our controllers, tables, attributes, and their relationships
 
 ![Miro White Board](https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/miro.png)
 
-#### VS code roadmap
+## VS code roadmap
 
 ![Google Sheets](https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/google-sheets.png)
 
-#### UI layout and flow
+## UI layout and flow
 
 ![Figma](https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/figma.png)
 
