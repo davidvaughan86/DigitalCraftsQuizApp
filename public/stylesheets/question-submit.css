@@ -14,7 +14,6 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0;
-
 }
 
 label {
@@ -39,7 +38,6 @@ form {
     width: ;
 }
 
-
 select {
     border: none;
     width: 150px;
@@ -56,25 +54,23 @@ textarea {
     border-radius: 3px;
 }
 
-
 input[type=submit] {
-	background:#f04c1e;
-	border: none;
-	display:inline-block;
-	cursor:pointer;
+    background:#f04c1e;
+    border: none;
+    display:inline-block;
+    cursor:pointer;
     color:#ffffff;
     border-radius:6px;
-	font-weight:500;
-	padding:10px 35px;
+    font-weight:500;
+    padding:10px 35px;
     font-size: 1rem;
     font-family: 'Poppins', sans-serif;
-
-   
 }
 
 .submit-btn {
     margin-top: 2em;
 }
+
 /* Media Query */
 
 @media all and (max-width: 699px) {
@@ -84,11 +80,11 @@ input[type=submit] {
     }
 
     h1 {
-        font-size: 1.3rem;
+      font-size: 1.3rem;
     }
 
-    p{
-        font-size: .8rem;
+    p {
+      font-size: .8rem;
     }
 
   }
