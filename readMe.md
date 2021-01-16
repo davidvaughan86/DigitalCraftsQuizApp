@@ -1,6 +1,6 @@
 
 
-![Header banner](https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/readme-banner.png)
+![Header Banner](https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/readme-banner.png)
 
 
 
@@ -27,7 +27,7 @@ My team and I created an App called "DigitalCraftquizzes" to assist students wit
 
 
 
-## Tools & Languages used in this project:
+## Tools, Languages, and Middleware used in this project:
 
 -   [Node.js](https://nodejs.org/en/)
 -   [Express.js](https://expressjs.com)
@@ -60,13 +60,17 @@ My team and I created an App called "DigitalCraftquizzes" to assist students wit
 ### Screen shots of the process:
 
 ---
+#### Layout of our controllers, tables, attributes, and their relationships
 
-<img src="https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/miro.png" width="1000" height="350" alt="screenshot miro" />
+![Miro White Board](https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/miro.png)
 
+#### VS code roadmap
 
-<img src="https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/google-sheets.png" width="1000" height="800" alt="screenshot google sheets" />
+![Google Sheets](https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/google-sheets.png)
 
+#### UI layout and flow
 
-<img src="https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/figma.png" width="1000" height="450" alt="screenshot figma" />
+![Figma](https://github.com/wesleyhedrick/DigitalCraftsQuizApp/blob/master/public/stylesheets/images/figma.png)
+
 
 
